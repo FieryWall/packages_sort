@@ -19,8 +19,14 @@ Function must dispatch the packages in the following stacks:
 ## Run program
 `npm run exec {width} {height} {length} {mass}`
 
+For example `npm run exec 10 12 6 19`
+
+on Replit run this from "Shell" tab
+
 ## Run tests
 `npm test`
+
+on Replit run this from "Shell" tab
 
 ## Implementation details
 * Project implemented with no packages on pure NodeJS focusing on MVP. This also means easy migration to any choosen technology in future
